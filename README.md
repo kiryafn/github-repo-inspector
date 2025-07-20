@@ -50,7 +50,7 @@ GET http://localhost:8080/api/github/octocat/repos
 
 
 ## Project Structure
-```json
+```
 src/
 ├── main/
 │   ├── java/com/example/demo/
